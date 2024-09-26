@@ -3,7 +3,7 @@ Analysing the performance of Electric Vehicles under different weather condition
 
 # EV Range Analysis
 
-This project uses Python to analyze how Electric Vehicles (EVs) perform under different temperature conditions. The goal is to assess which EV models maintain the best range under extreme temperatures.
+This project uses Python to analyse how Electric Vehicles (EVs) perform under different temperature conditions. The goal is to assess which EV models maintain the best range under extreme temperatures.
 
 ## Project Structure:
 - **src/**: Python scripts for calculating and visualising EV ranges.
