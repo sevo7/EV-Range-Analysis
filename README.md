@@ -6,9 +6,9 @@ Analysing the performance of Electric Vehicles under different weather condition
 This project uses Python to analyze how Electric Vehicles (EVs) perform under different temperature conditions. The goal is to assess which EV models maintain the best range under extreme temperatures.
 
 ## Project Structure:
-- **src/**: Python scripts for calculating and visualizing EV ranges.
+- **src/**: Python scripts for calculating and visualising EV ranges.
 - **data/**: Datasets containing information about EV models and their ranges.
-- **images/**: Plots and visualizations generated from the analysis.
+- **images/**: Plots and visuals generated from the analysis.
 
 ## How to Run:
 1. Clone this repository: https://github.com/sevo7/EV-Range-Analysis.git
